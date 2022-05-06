@@ -1,6 +1,6 @@
 # SymPy (sympolic python)
 
-This python notebook SymPy (symbolic python) exmaples related to:
+This python notebook explores SymPy (symbolic python) exmaples:
 
 1. Setup, expressions, and methods
 2. Simple mathematical operators and solutions
